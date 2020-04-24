@@ -29,7 +29,7 @@
 							<h2>Welcome to my website!<br />
 							</h2>
 						</header>
-						<p>Passionate about technology, dev ops, game development web design, and 3D art.</p>
+						<p>Passionate about technology, dev ops, game development, web design, and 3D art.</p>
 					</section>
 
 				<!-- Two -->

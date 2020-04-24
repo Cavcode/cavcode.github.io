@@ -1,7 +1,7 @@
 <?php
     $name = $_POST['name'];
     $visitor_email = $_POST['email'];
-    $message = $_POST['message'];
+    $message = $_POST['Message'];
 
     $email_from = 'Cavcode.com';
 
